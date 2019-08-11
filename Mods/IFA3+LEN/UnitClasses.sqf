@@ -567,7 +567,7 @@ a3e_arr_roadblocks_Veh_GUE = a3e_arr_Escape_RoadBlock_MannedVehicleTypes_Ind;
 // boats that are spawned
 //////////////////////////////////////////////////////////////////
 a3e_arr_AquaticPatrols = [
-	"LIB_LCVP_w"];
+	"LIB_LCVP"];
 
 //////////////////////////////////////////////////////////////////
 // fn_AmmoDepot
